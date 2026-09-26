@@ -178,9 +178,9 @@ The application registration is configured in Microsoft Entra ID and can be used
 ### App Registration List
 
 ![GBank App Registrations](app-registrations-dataverse-function.png)
-(af1.png)
-(af2.png)
-(af3.png)
+![GBank Azure ](af1.png)
+![GBank Azure screenshot2](af2.png)
+![GBank Azurescreenshot3](af3.png)
 
 ## Authentication Approach
 
